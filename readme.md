@@ -1,6 +1,8 @@
 # [Diff from Marlin 2](https://github.com/ksevelyar/fishing-for-fishies/pull/1/files)
 
-![](assets/boot.png)
+[Bill of materials with links to Aliexpress](/docs/bill-of-materials.md)
+
+[![](assets/boot.png)](/docs/bill-of-materials.md)
 
 ## Upgrades
 
